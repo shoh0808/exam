@@ -1,0 +1,100 @@
+h1 {
+   width: 2000px;
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 50px;
+    background-color: rgb(110, 188, 222)
+
+}
+
+.span {
+    color: red;
+}
+
+h2 {
+    color: green;
+    
+}
+
+#oda {
+    border: 3px solid yellow;
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+#nuda {
+    border: 3px solid yellow;
+    background-color: yellow;
+    text-align: center;
+    
+}
+
+h3 {
+    color: green;
+}
+
+textarea {
+    width: 2100px;
+    height: 50px;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+}
+
+#submit {
+    background-color: rgb(79, 79, 254);
+    color: white;
+    width: 300px;
+    height: 30px;
+}
+
+h4 {
+    color: green;
+    background-color: yellow;
+    border: 3px solid yellow;
+    text-align: center;
+    
+
+}
+
+table,
+th,
+td {
+    color: white;
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+
+}
+
+.green {
+    background-color: green;
+    width: 100px;
+    height: 30px;
+}
+
+.blue {
+    background-color: blue;
+    width: 1000px;
+}
+
+.red {
+    background-color: red;
+    width: 50px;
+    height: 30px;
+    
+}
+
+.black {
+    background-color: black;
+} 
+#color{
+    color: green;
+    
+}
+.img{ 
+    text-align: end;
+}
